@@ -1,5 +1,5 @@
 {
-  "name": "hello-world",
+  "name": "panic-button-skill",
   "version": "1.2.0",
   "description": "alexa utility for quickly building skills",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Amazon Alexa",
-  "license": "Apache License",
+  "license": "Apache-2.0",
   "dependencies": {
     "ask-sdk-core": "^2.7.0",
     "ask-sdk-model": "^1.19.0",

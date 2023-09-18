@@ -1,15 +1,15 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # Compiled output
-/dist
-/tmp
-/out-tsc
-/bazel-out
+/lambda/dist
+/lambda/tmp
+/lambda/out-tsc
+/lambda/bazel-out
 
 # Node
-/node_modules
-npm-debug.log
-yarn-error.log
+/lambda/node_modules
+/lambda/npm-debug.log
+/lambda/yarn-error.log
 
 # IDEs and editors
 .idea/
